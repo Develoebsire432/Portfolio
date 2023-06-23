@@ -1,0 +1,27 @@
+.container {
+  text-align: center;
+}
+
+.centered-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.centered-text {
+  text-align: center;
+}
+
+.centered-buttons {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.social-button {
+  display: inline-block;
+  margin: 0 5px;
+}
+body {
+  background-color: #1b19193f;
+}
